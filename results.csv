@@ -1,0 +1,8 @@
+model,accuracy
+logistic_regression,0.779842080817464
+Decision_tree,0.7754296330701347
+knn,0.772178355782629
+AdaBoostClassifier,0.7829191825359962
+XGBClassifier,0.8258824895494659
+GradientBoostingClassifier,0.8111936832326986
+RandomForestClassifier,0.8269856014862982
